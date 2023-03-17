@@ -1,5 +1,3 @@
-#include <string>
-
 #ifndef __RFCTIME_H__
 #define __RFCTIME_H__
 
